@@ -1,8 +1,6 @@
 APClips
-Coders Rank
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -14,14 +12,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
 xHamster
