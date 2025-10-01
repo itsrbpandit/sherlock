@@ -1,11 +1,13 @@
 APClips
-Audiojungle
+Carbonmade
+Chatujme.cz
 Coders Rank
+CyberDefenders
+DeviantART
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -21,6 +23,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
+xHamster
