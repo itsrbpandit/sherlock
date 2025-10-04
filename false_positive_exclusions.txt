@@ -1,21 +1,21 @@
 APClips
 BoardGameGeek
 CyberDefenders
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
+Strava
 Topcoder
 Weblate
 YandexMusic
