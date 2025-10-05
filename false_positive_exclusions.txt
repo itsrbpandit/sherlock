@@ -1,6 +1,6 @@
 APClips
 BoardGameGeek
-CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -9,17 +9,12 @@ LushStories
 PepperIT
 PocketStars
 Reddit
-Roblox
 RocketTube
-Slack
-SlideShare
+SoylentNews
 Splice
 Spotify
-Strava
-Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
-threads
