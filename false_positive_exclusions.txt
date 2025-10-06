@@ -1,5 +1,4 @@
 APClips
-BoardGameGeek
 DeviantArt
 GNOME VCS
 Giphy
@@ -8,11 +7,12 @@ Heavy-R
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 RocketTube
-SoylentNews
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
