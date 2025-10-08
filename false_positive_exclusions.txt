@@ -5,14 +5,13 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LushStories
+LessWrong
 PepperIT
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
