@@ -1,6 +1,6 @@
 APClips
-DeviantArt
-Fosstodon
+Carbonmade
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -12,7 +12,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 opennet
