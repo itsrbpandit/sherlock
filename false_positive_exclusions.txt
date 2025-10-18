@@ -1,19 +1,17 @@
 APClips
+Archive of Our Own
 Coders Rank
-Cults3D
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
-xHamster
