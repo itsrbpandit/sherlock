@@ -1,6 +1,6 @@
 APClips
-Archive of Our Own
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -9,7 +9,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
