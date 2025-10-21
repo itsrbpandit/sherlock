@@ -1,9 +1,11 @@
 APClips
-BreachSta.rs Forum
+BoardGameGeek
 Coders Rank
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
@@ -13,5 +15,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
 xHamster
