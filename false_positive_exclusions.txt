@@ -1,6 +1,4 @@
 APClips
-CGTrader
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
