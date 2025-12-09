@@ -17,5 +17,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
-xHamster
