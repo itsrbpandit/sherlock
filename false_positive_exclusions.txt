@@ -6,8 +6,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LiveJournal
+LushStories
 PocketStars
 Realmeye
 Reddit
@@ -16,10 +17,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
