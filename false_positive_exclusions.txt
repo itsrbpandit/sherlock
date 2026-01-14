@@ -20,8 +20,8 @@ Splice
 Spotify
 Trovo
 Weblate
+Wikidot
 YandexMusic
-eintracht
 mercadolivre
 phpRU
 svidbook
