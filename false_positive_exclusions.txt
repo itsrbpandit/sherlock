@@ -6,13 +6,14 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -25,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
