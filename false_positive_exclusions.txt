@@ -1,15 +1,14 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -22,6 +21,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
