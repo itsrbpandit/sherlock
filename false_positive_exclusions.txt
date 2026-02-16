@@ -1,18 +1,17 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cracked Forum
-Cults3D
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
+Linktree
 LushStories
-OurDJTalk
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -21,11 +20,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Tenor
 Trovo
 TryHackMe
 Weblate
-Wikidot
 YandexMusic
 mercadolivre
 opennet
