@@ -2,13 +2,11 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
-Linktree
+LessWrong
 LushStories
 PocketStars
 Rajce.net
@@ -28,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
