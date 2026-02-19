@@ -1,6 +1,7 @@
 APClips
 Archive.org
-Code Snippet Wiki
+BoardGameGeek
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -8,6 +9,7 @@ Hubski
 LessWrong
 LushStories
 Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -15,9 +17,10 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Trakt
+Trovo
 TryHackMe
 Weblate
 YandexMusic
