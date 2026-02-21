@@ -18,9 +18,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Tenor
+Tiendanube
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
