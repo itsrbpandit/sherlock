@@ -1,5 +1,6 @@
 APClips
 Archive.org
+DEV Community
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -10,6 +11,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -24,8 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
