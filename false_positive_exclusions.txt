@@ -1,6 +1,8 @@
 APClips
 Archive.org
 DeviantArt
+GNOME VCS
+GaiaOnline
 GeeksforGeeks
 Giphy
 Hashnode
@@ -17,7 +19,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
