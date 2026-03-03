@@ -2,6 +2,7 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+Dribbble
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -24,9 +25,9 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
