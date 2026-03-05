@@ -6,7 +6,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -17,6 +16,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -28,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
