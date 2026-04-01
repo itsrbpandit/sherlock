@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -21,7 +22,9 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
