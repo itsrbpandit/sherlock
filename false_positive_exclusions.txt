@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -12,6 +13,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,6 +27,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 interpals
 mercadolivre
 opennet
