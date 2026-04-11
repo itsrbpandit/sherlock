@@ -2,15 +2,12 @@
 APClips
 Archive.org
 Bandcamp
-CGTrader
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
 Minecraft
@@ -26,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
