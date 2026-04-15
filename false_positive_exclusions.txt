@@ -1,6 +1,5 @@
 7Cups
 APClips
-Anilist
 Apple Discussions
 Archive.org
 Bandcamp
@@ -16,6 +15,8 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,8 +29,10 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
