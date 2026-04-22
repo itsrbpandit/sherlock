@@ -4,10 +4,10 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -23,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
