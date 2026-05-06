@@ -4,20 +4,20 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -30,6 +30,7 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
 opennet
