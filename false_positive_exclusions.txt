@@ -13,6 +13,7 @@ Hubski
 LessWrong
 Motherless
 Patched
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
