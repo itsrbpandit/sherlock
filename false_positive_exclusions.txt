@@ -4,16 +4,12 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
-DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Motherless
 Patched
 Pornhub
@@ -27,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -39,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
