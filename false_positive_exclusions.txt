@@ -11,7 +11,7 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -27,7 +27,6 @@ Spotify
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
