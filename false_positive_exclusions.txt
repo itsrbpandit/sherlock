@@ -5,10 +5,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
 Cults3D
 Discord.bio
+Duolingo
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -28,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
