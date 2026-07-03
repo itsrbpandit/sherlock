@@ -15,7 +15,6 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 Minecraft
 Odysee
@@ -24,7 +23,6 @@ Patched
 Pornhub
 Rarible
 Realmeye
-RedTube
 Reddit
 Replit.com
 RocketTube
@@ -38,13 +36,14 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-YouPorn
 authorSTREAM
 dailykos
 fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
