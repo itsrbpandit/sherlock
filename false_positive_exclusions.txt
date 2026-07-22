@@ -13,10 +13,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
+LiveJournal
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -29,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
