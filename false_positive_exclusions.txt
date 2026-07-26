@@ -8,29 +8,27 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Odysee
-OurDJTalk
 PCGamer
-Pornhub
-Rajce.net
+Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
