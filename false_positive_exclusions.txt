@@ -8,10 +8,10 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,25 +20,28 @@ Hubski
 Instapaper
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
