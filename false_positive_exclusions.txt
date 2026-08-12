@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,10 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,14 +30,11 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
