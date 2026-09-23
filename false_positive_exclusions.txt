@@ -13,13 +13,15 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+Linktree
+Mamot
 ObservableHQ
 Odysee
 PCGamer
@@ -34,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
