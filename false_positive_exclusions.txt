@@ -13,17 +13,18 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
-Mamot
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Pornhub
 Rarible
@@ -52,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
