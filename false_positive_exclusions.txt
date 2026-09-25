@@ -15,16 +15,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Pornhub
 Rarible
@@ -37,9 +34,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -53,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
