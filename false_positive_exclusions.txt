@@ -5,19 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -46,7 +45,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
