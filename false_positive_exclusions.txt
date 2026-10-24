@@ -4,24 +4,21 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
+Blogger
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -50,4 +47,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
