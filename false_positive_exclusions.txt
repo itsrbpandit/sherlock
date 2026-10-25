@@ -4,8 +4,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -18,7 +16,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -47,3 +44,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
