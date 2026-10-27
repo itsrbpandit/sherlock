@@ -1,15 +1,13 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -29,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -40,8 +37,7 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
-svidbook
+xHamster
