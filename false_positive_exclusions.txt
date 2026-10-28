@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,8 +7,10 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GaiaOnline
 GeeksforGeeks
+GitBook
 HackerNews
 Hashnode
 Hubski
@@ -27,8 +28,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -40,4 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
+svidbook
