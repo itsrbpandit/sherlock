@@ -7,14 +7,13 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
-GitBook
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -38,6 +37,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
