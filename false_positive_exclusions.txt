@@ -13,6 +13,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -21,12 +23,13 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Tenor
+Trakt
 TryHackMe
 Velomania
 Vero
